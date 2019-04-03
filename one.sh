@@ -1,3 +1,4 @@
-This is test
+#!/bin/bash
 
-hello
+
+echo "hello"
