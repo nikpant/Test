@@ -1,4 +1,4 @@
 #!/bin/bash
-#This is test file
+#github-jenkins-project
 
-echo "hello!"
+echo "hello, welcome to the lab!"
