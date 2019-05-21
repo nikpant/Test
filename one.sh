@@ -1,5 +1,5 @@
 #!/bin/bash
 #github-jenkins-project
 
-echo "hello, welcome to the lab"
+echo "hello, welcome to the lab!"
 
