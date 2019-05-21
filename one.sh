@@ -1,5 +1,5 @@
 #!/bin/bash
-#github-jenkins
+#github-jenkins-project
 
 echo "hello, welcome"
 
